@@ -110,7 +110,7 @@ The application supports both **keyboard and mouse interaction** to control anim
 
 ## Author
 
-**Showrav**
+**Showrav Ghosh**
 Computer Graphics Student
 
 ## License
