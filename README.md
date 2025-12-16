@@ -48,7 +48,6 @@ The application supports both **keyboard and mouse interaction** to control anim
 
 ### Keyboard Controls
 
------------------------------------------------------------------------------------
 | Key              | Description                                                  |
 | ---------------- | ------------------------------------------------------------ |
 | `1`              | Starts the airplane animation and moves it across the sky    |
@@ -60,19 +59,13 @@ The application supports both **keyboard and mouse interaction** to control anim
 | `+`              | Increases zoom level / scales the scene up                   |
 | `-`              | Decreases zoom level / scales the scene down                 |
 | `ESC`            | Exits the application                                        |
-| ---------------- | ------------------------------------------------------------ |
 
 ### Mouse Controls
 
---------------------------------------------------------------------------------------------
-| Mouse Action     | Function                                                              |
-| ---------------- | --------------------------------------------------------------------- |
-| Left Mouse Click |  Raises the man’s hand and stops the yellow bus                       |
-| ---------------- | --------------------------------------------------------------------- |
-|Left Mouse Click  |  Changes bird direction (left ↔ right)                                |
-| ---------------- | --------------------------------------------------------------------- |
-|Mouse Wheel Click |  Moves the hot air balloon up and down                                |
-| ---------------- | --------------------------------------------------------------------- |
+| Mouse Action     | Function                                                      |
+| Left Mouse Click |  Raises the man’s hand and stops the yellow bus               |
+|Left Mouse Click  |  Changes bird direction (left ↔ right)                        |
+|Mouse Wheel Click |  Moves the hot air balloon up and down                        |
 
 ### Notes
 
@@ -90,22 +83,6 @@ The application supports both **keyboard and mouse interaction** to control anim
 
 * Code::Blocks (with MinGW)
 * OpenGL & GLUT installed
-
-### Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-
-2. Open **Code::Blocks**
-
-3. Go to **File → Open** and select `Try.cbp`
-
-4. Build and Run the project (`F9`)
-
----
 
 ## Learning Outcomes
 
