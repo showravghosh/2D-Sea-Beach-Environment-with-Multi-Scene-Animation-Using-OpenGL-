@@ -62,10 +62,12 @@ The application supports both **keyboard and mouse interaction** to control anim
 
 ### Mouse Controls
 
-| Mouse Action     | Function                                                      |
-| Left Mouse Click |  Raises the man’s hand and stops the yellow bus               |
-|Left Mouse Click  |  Changes bird direction (left ↔ right)                        |
-|Mouse Wheel Click |  Moves the hot air balloon up and down                        |
+| Mouse Action       | Function                                               |
+|--------------------|--------------------------------------------------------|
+| Left Mouse Click   | Raises the man’s hand and stops the yellow bus        |
+| Left Mouse Click   | Changes bird direction (left ↔ right)                 |
+| Mouse Wheel Click  | Moves the hot air balloon up and down                 |
+
 
 ### Notes
 
