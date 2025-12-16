@@ -103,11 +103,11 @@ The application supports both **keyboard and mouse interaction** to control anim
 
 
 ### Day Mode
-![Day Scene](Screenshots/day_scene.png)
+<img width="1920" height="1080" alt="day_scene" src="https://github.com/user-attachments/assets/25a3d8e2-54d6-4212-a6b3-9dfae972e7e9" />
 ### Night Mode
-![Night Scene](Screenshots/night_scene.png)
+<img width="1920" height="1080" alt="night_scene" src="https://github.com/user-attachments/assets/f088648f-7f1b-46f3-9207-7c1628038a01" />
 ### Rain & Bubble Effect
-![Rain Effect](Screenshots/rain_effect.png)
+<img width="1920" height="1080" alt="rain_effect" src="https://github.com/user-attachments/assets/66d0ebc1-0c12-4e90-b34e-037c88a98cf9" />
 
 ---
 
