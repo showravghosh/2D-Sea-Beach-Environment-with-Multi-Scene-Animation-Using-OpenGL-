@@ -32,10 +32,12 @@ The project is configured as a **Code::Blocks (.cbp)** project and is suitable f
 
 ## Project Structure
 
-├── Try.cbp                # Code::Blocks project file
-├── main.cpp               # Main OpenGL source file
-├── assets/                # (Optional) Images or resources
-├── README.md              # Project documentation
+| File / Folder       | Description                                 |
+|---------------------|---------------------------------------------|
+| `Try.cbp`           | Code::Blocks project file                   |
+| `main.cpp`          | Main OpenGL source file                     |
+| `README.md`         | Project documentation                       |
+
 
 > All drawable elements follow a consistent naming convention such as:
 > `draw_sky()`, `draw_sun()`, `draw_vehicle()`, etc.
