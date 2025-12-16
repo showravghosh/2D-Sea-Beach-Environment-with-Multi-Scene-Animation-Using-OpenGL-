@@ -37,6 +37,7 @@ The project is configured as a **Code::Blocks (.cbp)** project and is suitable f
 | `Try.cbp`           | Code::Blocks project file                   |
 | `main.cpp`          | Main OpenGL source file                     |
 | `README.md`         | Project documentation                       |
+| 'PDF for details'   | Project report for more details             |
 
 
 > All drawable elements follow a consistent naming convention such as:
